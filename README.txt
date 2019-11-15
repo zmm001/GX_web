@@ -3,18 +3,18 @@
 http://zh.f10086.net/gx/
 http://zh.f10086.net/gx/ny.html
 
-需要做的页面（根据首页导航做）
-首页
-全案设计	
-经典案例
-品牌动态
-设计团队
-供应链
-VIP专享
-GX商城
-关于我们
+页面结构：
+首页    index.html
+全案设计 /pages/WholeCaseDesign
+经典案例 /pages/ClassicCase
+品牌动态 /pages/BrandDynamics
+设计团队 /pages/DesignTeam
+供应链   /pages/SupplyChain
+VIP专享  /pages/VIPExclusive
+GX商城   /pages/GXMall
+关于我们 /pages/About
 
-其中头尾页面可共用
+共用页面 /pages/shard
 
 bootstrap使用参考
 https://v3.bootcss.com/css/
